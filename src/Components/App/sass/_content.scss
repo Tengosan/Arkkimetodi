@@ -1,0 +1,214 @@
+$base-color:#981a16;
+$text-color:black;
+
+.content-container {
+  position: relative;
+  margin: 0 auto;
+  width: 67%;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    min-width: 650px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    min-width: 767px;;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+  }
+}
+
+@media (min-width: 1025px)  {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;;
+  }
+}
+
+@media (max-width: 1250px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width: 89%;
+  }
+}
+
+@media (min-width: 1281px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+  }
+}
+
+@media (min-width: 1370px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width: 89%;
+  }
+}
+
+@media (min-width: 1515px) and (max-width: 1651px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width:80%;
+
+  }
+}
+
+@media  (min-width: 1667px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width: 75%;
+  }
+}
+
+@media  (min-width: 2000px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width: 65%;
+  }
+}
+
+@media  (min-width: 2308px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width: 55%;
+  }
+}
+
+@media  (min-width: 2728px) {
+  .content-container {
+    position: relative;
+    margin: 0 auto;
+    width: 45%;
+  }
+}
+
+.content-container h1 {
+  text-decoration: none;
+  outline: none;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  transition: 0.5s linear;
+  text-align: center;
+  color: $base-color;
+  padding: 30px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .content-container h1 {
+    padding: 20px;
+    padding-right:5%;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .content-container h1 {
+    padding: 30px;
+    padding-right:15%;
+  }
+ }
+
+.item {
+  width: 250px;
+  height: 250px;
+  padding: 50px;
+  text-align: center;
+  display: inline-block;
+  color: $base-color;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .item {
+    padding: 0px;
+    padding-left: 7%;
+    margin: 0 auto;
+  } 
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .item {
+    padding: 0px;
+    padding-left: 7%;
+    margin: 0 auto;
+  } 
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .item {
+    padding: 0px;
+    margin: 0 auto;
+  } 
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .item {
+    padding: 0px;
+    margin: 0 auto;
+  } 
+}
+
+@media (min-width: 1250px) {
+  .item {
+    padding: 25px;
+    margin: 0 auto;
+  } 
+}
+
+@media (min-width: 1500px) {
+  .item {
+    padding: 25px;
+    margin: 0 auto;
+  } 
+}
+
+
+.item img {
+  width: 100px;
+  height: 100px;
+}
+
+.item h2 {
+  margin: 0;
+}
+
+.item p {
+  width: 220px;
+  color: $text-color;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .item p {
+    width: 220px;
+    color: $text-color;
+    font-size: 0.9em;
+    text-align: center;
+    padding-bottom: 0px;
+  }
+}

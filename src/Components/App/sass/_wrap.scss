@@ -1,0 +1,107 @@
+$text-color:white;
+$background:#981a16;
+
+.wrap {
+  min-width: 100%;
+  height: 20%;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .wrap {
+    min-width: 650px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .wrap {
+    min-width: 767px;
+  }
+}
+
+h1, p, .contacts-container, .contacts, a {
+  position: relative;
+  margin: 0px;
+
+  max-width: 100%;
+  min-width: 10%;
+  text-decoration: none;
+  outline: none;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  transition: 0.5s linear;
+  color: $text-color;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  padding-top: 150px;
+}
+
+p {
+  padding: 10px;
+  padding-bottom: 150px;
+  font-size: 1.5em;
+}
+
+a {
+  padding: 0px;
+  letter-spacing: 1px;
+}
+
+i {
+  padding-right: 10px;
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+ h1{
+   padding-right:13%;
+ }
+
+ p {
+  padding-right:13%;
+}
+}
+
+.contacts-container {
+  background-color: $background;
+  width:100%;
+}
+
+.contacts{
+  min-width:450px;
+}
+
+.contacts > li {
+  display: inline-block;
+  margin-right: 5%;
+  padding: 20px; 
+}
+@media (min-width: 320px) and (max-width: 480px) {
+  .contacts > li {
+    display: block;
+    height:15px;
+  }
+  .contacts > li > a {
+    float: left;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .contacts > li {
+    display: block;
+    height:15px;
+  }
+  .contacts > li > a {
+    float: left;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .contacts > li {
+    display: block;
+    height:15px;
+  }
+  .contacts > li > a {
+    float: left;
+  }
+}
