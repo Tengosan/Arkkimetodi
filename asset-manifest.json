@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Arkkimetodi/static/css/main.5cd55714.chunk.css",
+    "main.js": "/Arkkimetodi/static/js/main.790b9898.chunk.js",
+    "main.js.map": "/Arkkimetodi/static/js/main.790b9898.chunk.js.map",
+    "runtime~main.js": "/Arkkimetodi/static/js/runtime~main.aa806276.js",
+    "runtime~main.js.map": "/Arkkimetodi/static/js/runtime~main.aa806276.js.map",
+    "static/css/2.8bc3344d.chunk.css": "/Arkkimetodi/static/css/2.8bc3344d.chunk.css",
+    "static/js/2.ccab79af.chunk.js": "/Arkkimetodi/static/js/2.ccab79af.chunk.js",
+    "static/js/2.ccab79af.chunk.js.map": "/Arkkimetodi/static/js/2.ccab79af.chunk.js.map",
+    "index.html": "/Arkkimetodi/index.html",
+    "precache-manifest.884c239f67eb3af28afe128b08480a9f.js": "/Arkkimetodi/precache-manifest.884c239f67eb3af28afe128b08480a9f.js",
+    "service-worker.js": "/Arkkimetodi/service-worker.js",
+    "static/css/2.8bc3344d.chunk.css.map": "/Arkkimetodi/static/css/2.8bc3344d.chunk.css.map",
+    "static/css/main.5cd55714.chunk.css.map": "/Arkkimetodi/static/css/main.5cd55714.chunk.css.map",
+    "static/media/Artboard10100.svg": "/Arkkimetodi/static/media/Artboard10100.badc3a7e.svg",
+    "static/media/Artboard11100.svg": "/Arkkimetodi/static/media/Artboard11100.446cdcaf.svg",
+    "static/media/Artboard12100.svg": "/Arkkimetodi/static/media/Artboard12100.9b1b5ccd.svg",
+    "static/media/Artboard13100.svg": "/Arkkimetodi/static/media/Artboard13100.f671a1dc.svg",
+    "static/media/Artboard14100.svg": "/Arkkimetodi/static/media/Artboard14100.b6ad9c05.svg",
+    "static/media/Artboard15100.svg": "/Arkkimetodi/static/media/Artboard15100.2688d75a.svg",
+    "static/media/Artboard16100.svg": "/Arkkimetodi/static/media/Artboard16100.1bb5d3eb.svg",
+    "static/media/Artboard17100.svg": "/Arkkimetodi/static/media/Artboard17100.54d3a224.svg",
+    "static/media/Artboard19100.svg": "/Arkkimetodi/static/media/Artboard19100.6b065aa6.svg",
+    "static/media/Artboard22100.png": "/Arkkimetodi/static/media/Artboard22100.89a2ac06.png",
+    "static/media/Artboard6100.svg": "/Arkkimetodi/static/media/Artboard6100.ef012142.svg",
+    "static/media/Artboard7100.svg": "/Arkkimetodi/static/media/Artboard7100.ba7261a1.svg",
+    "static/media/Artboard8100.svg": "/Arkkimetodi/static/media/Artboard8100.92fc0406.svg",
+    "static/media/Artboard9100.svg": "/Arkkimetodi/static/media/Artboard9100.c730a2fb.svg",
+    "static/media/font-awesome.min.css": "/Arkkimetodi/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
