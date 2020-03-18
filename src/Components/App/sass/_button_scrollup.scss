@@ -1,9 +1,9 @@
 .scrollup{
     position: absolute;
     width:22px;
-    height:2699px;
+    height:2602px;
     left:0px;
-    opacity: 0.2;
+    opacity: 0.3;
     outline:0 none !important;
   }
 
@@ -15,4 +15,31 @@ button{
     border-color: rgba(255, 255, 255, 0);
     border-style: none;
     background-color: rgba(255, 255, 255, 0.288);
+}
+
+.footer_up{
+    position: absolute;
+    bottom:480px;
+    left:0px;
+    padding:3px;
+    font-size: x-large;
+    color:white;
+}
+
+.content_up{
+    position: absolute;
+    bottom:1480px;
+    left:0px;
+    padding:3px;
+    font-size: x-large;
+    color:black;
+}
+
+.info_up{
+    position: absolute;
+    bottom:1910px;
+    left:0px;
+    padding:3px;
+    font-size: x-large;
+    color:black;
 }

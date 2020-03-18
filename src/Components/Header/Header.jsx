@@ -7,6 +7,8 @@ const Header = () =>{
     return(
         <header className="header">
         <button className="scrollup" onClick={()=> scroll.scrollToTop()}>
+          <i className="fa fa-angle-up footer_up"></i>
+          <i className="fa fa-angle-up content_up"></i>
         </button>
         <img className="logo" src={logo} alt="logo"/>
         <nav class="navmenu">
