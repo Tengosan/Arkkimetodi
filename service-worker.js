@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Arkkimetodi/precache-manifest.77674e701d05bdc948486f17e1234468.js"
+  "/Arkkimetodi/precache-manifest.b896591fd17cc928ec4312187a48d77b.js"
 );
 
 self.addEventListener('message', (event) => {

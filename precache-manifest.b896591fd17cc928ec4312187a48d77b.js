@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "65308a162fa63b104597b8b7799859ec",
+    "revision": "f9cc53994d15ddd822c5e6b822a09552",
     "url": "/Arkkimetodi/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Arkkimetodi/static/css/2.8bc3344d.chunk.css"
   },
   {
-    "revision": "bf54b3cf8f1cf276e748",
-    "url": "/Arkkimetodi/static/css/main.fb4484fc.chunk.css"
+    "revision": "b9fc1b7468db256c3097",
+    "url": "/Arkkimetodi/static/css/main.eaca7ede.chunk.css"
   },
   {
     "revision": "7b3f54f447a6970c43ad",
     "url": "/Arkkimetodi/static/js/2.ccab79af.chunk.js"
   },
   {
-    "revision": "bf54b3cf8f1cf276e748",
+    "revision": "b9fc1b7468db256c3097",
     "url": "/Arkkimetodi/static/js/main.64fedf38.chunk.js"
   },
   {
